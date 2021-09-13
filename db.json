@@ -32,7 +32,12 @@
     {"title":"Daily Expense app",
      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh02moXoRzQYI-sPJ_2L-B4l1rsgo84k7Hew&usqp=CAU",
      "desc":"this is a simple app for daily expense reconrd.",
-     "redirect":"https://vercel.com/yakraj/daylight-expense"}],
+     "redirect":"https://vercel.com/yakraj/daylight-expense"},
+
+    {"title":"Background toggle",
+     "img":"https://99designs-start-attachments.imgix.net/alchemy-pictures/2016%2F01%2F29%2F06%2F52%2F16%2F2574220d-7737-4c39-a562-8e153a5d1497%2Fwebsite-hero3.png?auto=format&ch=Width%2CDPR&fm=png&w=824&h=457",
+     "desc":"This is a simple concept for website. Once i will click toggle switch it switches on and off and changes background of image.",
+     "redirect":"https://yakraj.github.io/toggle-change-background/"}],
  
  
  
