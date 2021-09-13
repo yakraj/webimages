@@ -16,41 +16,30 @@
      "img":"https://yakraj.com/productImages/dataentry.png",
      "desc":"This is a data entry app for company level works which makes any company work easy and safer",
      "redirect":"https://vercel.com/yakraj/data-entry-app"},
-    
     {"title":"Contact Directory",
      "img":"https://yakraj.com/productImages/contact.png",
      "desc":"This is contact directory app for track record and make a call to any emerygency numbers in country.",
      "redirect":"https://vercel.com/yakraj/contact-directory"},
-// from here i started 
     {"title":"Background toggle",
      "img":"https://yakraj.com/productImages/toggle.png",
      "desc":"This is a simple concept for website. Once i will click toggle switch it switches on and off and changes background of image.",
      "redirect":"https://yakraj.github.io/toggle-change-background/"},
-
-
     {"title":"Prime Video Clone",
      "img":"https://yakraj.com/productImages/primevideo.png",
      "desc":"A simple and temporary site for as a film streaming website, which looks like prive video and for temporarily you can add movies.",
      "redirect":"https://yakraj.github.io/prime-video/"},
-
     {"title":"Image Comparition Site",
      "img":"https://yakraj.com/productImages/copparition.png",
      "desc":"A template for compare your two images. It could be more useful when you compare two images",
      "redirect":"https://yakraj.github.io/Simple-Image-comparison/"},
-
   {"title":"CSS Castle",
      "img":"https://yakraj.com/productImages/castle.png",
      "desc":"This is my most awesome ever I made with css. CSS is best Language for desin I used it as well as i could.",
      "redirect":"https://yakraj.github.io/CSS-Castle/"},
-
   {"title":"Background Generator",
      "img":"https://yakraj.com/productImages/background.png",
      "desc":"A simple Javascript dynamic app for generate custom background color of website.",
      "redirect":"https://yakraj.github.io/Background-Generator/"},
-
-
-
-
 
 ],
  
