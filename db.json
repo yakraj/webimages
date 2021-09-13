@@ -45,7 +45,15 @@
   {"title":"Background Generator",
      "img":"https://yakraj.com/productImages/background.png",
      "desc":"A simple Javascript dynamic app for generate custom background color of website.",
-     "redirect":"https://yakraj.github.io/Background-Generator/"}],
+     "redirect":"https://yakraj.github.io/Background-Generator/"},
+           
+           {"title":"Our Earth",
+     "img":"https://yakraj.com/productImages/crown.png",
+     "desc":"I made this website by inspiring this pandimic and human pollotion what we are making on the earth. AND TAKING IT TO THE END.",
+     "redirect":"https://our-earth.vercel.app/"}
+
+
+],
  
  
  
