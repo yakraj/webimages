@@ -14,12 +14,28 @@
     {"title":"Data entry app",
      "img":"https://yakraj.com/productImages/dataentry.png",
      "desc":"This is a data entry app for company level works which makes any company work easy and safer",
-     "redirect":"https://vercel.com/yakraj/data-entry-app"},
+     "redirect":"https://data-entry-app.vercel.app/"},
     
+
+    {"title":"Our Earth",
+     "img":"https://yakraj.com/productImages/crown.png",
+     "desc":"I made this website by inspiring this pandimic and human pollotion what we are making on the earth. AND TAKING IT TO THE END.",
+     "redirect":"https://our-earth.vercel.app/"},
+
+    
+    {"title":"Prime Video Clone",
+     "img":"https://yakraj.com/productImages/primevideo.png",
+     "desc":"A simple and temporary site for as a film streaming website, which looks like prive video and for temporarily you can add movies.",
+     "redirect":"https://yakraj.github.io/prime-video/"},
+
     {"title":"Contact Directory",
      "img":"https://yakraj.com/productImages/contact.png",
      "desc":"This is contact directory app for track record and make a call to any emerygency numbers in country.",
-     "redirect":"https://vercel.com/yakraj/contact-directory"},
+     "redirect":"https://contact-directory.vercel.app/"},
+ {"title":"CSS Castle",
+     "img":"https://yakraj.com/productImages/castle.png",
+     "desc":"This is my most awesome ever I made with css. CSS is best Language for desin I used it as well as i could.",
+     "redirect":"https://yakraj.github.io/CSS-Castle/"},
 
     {"title":"Background toggle",
      "img":"https://yakraj.com/productImages/toggle.png",
@@ -27,30 +43,18 @@
      "redirect":"https://yakraj.github.io/toggle-change-background/"},
 
 
-    {"title":"Prime Video Clone",
-     "img":"https://yakraj.com/productImages/primevideo.png",
-     "desc":"A simple and temporary site for as a film streaming website, which looks like prive video and for temporarily you can add movies.",
-     "redirect":"https://yakraj.github.io/prime-video/"},
-
     {"title":"Image Comparition Site",
      "img":"https://yakraj.com/productImages/copparition.png",
      "desc":"A template for compare your two images. It could be more useful when you compare two images",
      "redirect":"https://yakraj.github.io/Simple-Image-comparison/"},
 
-  {"title":"CSS Castle",
-     "img":"https://yakraj.com/productImages/castle.png",
-     "desc":"This is my most awesome ever I made with css. CSS is best Language for desin I used it as well as i could.",
-     "redirect":"https://yakraj.github.io/CSS-Castle/"},
-
+ 
   {"title":"Background Generator",
      "img":"https://yakraj.com/productImages/background.png",
      "desc":"A simple Javascript dynamic app for generate custom background color of website.",
-     "redirect":"https://yakraj.github.io/Background-Generator/"},
+     "redirect":"https://yakraj.github.io/Background-Generator/"}
            
-           {"title":"Our Earth",
-     "img":"https://yakraj.com/productImages/crown.png",
-     "desc":"I made this website by inspiring this pandimic and human pollotion what we are making on the earth. AND TAKING IT TO THE END.",
-     "redirect":"https://our-earth.vercel.app/"}
+           
 
 
 ],
