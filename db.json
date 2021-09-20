@@ -11,7 +11,7 @@
            {"title":"this is eleventh image","sr":"https://media.istockphoto.com/vectors/software-development-programming-language-coding-3d-isometric-laptop-vector-id1286724005"},
            {"title":"this is twelveth image","sr":"https://comps.canstockphoto.com/web-development-programming-coding-clip-art-vector_csp72589664.jpg"}],
 "works":[
-           {"title":"Smart Face-Recognition",
+      {"title":"Smart Face-Recognition",
      "img":"https://yakraj.com/productImages/face-recong.png",
      "desc":"A very smart website for recognize faces on image count faces with it's api function",
      "redirect":"https://face-recognition-ruddy.vercel.app/"},
@@ -62,7 +62,7 @@
            
 
 
-],
+]
  
  
  
