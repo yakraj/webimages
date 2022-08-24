@@ -71,7 +71,7 @@
 "keywords": ["Privacy first","IOS/Android supported","Searh restaurants and it's details","Live Geo-Location","Make favourites","Secure Payments Method"],
 "embed": "https:www.appetize.com",
 "appGoto": "https:www.appetize.com",
-"thumbnail": "https:www.yakraj.com/thumbnail/hellothere",
+"thumbnail": "http://yakraj.com/images/mobile.png",
 "visit": "https:vercel.com"
 },
 {
@@ -83,7 +83,7 @@
 "keywords": ["responsive","Secure"],
 "embed": "https:www.appetize.com",
 "appGoto": "https:www.appetize.com",
-"thumbnail": "https:www.yakraj.com/thumbnail/hellothere",
+"thumbnail": "http://yakraj.com/images/data-entry.png",
 "visit": "https://data-entry-app.vercel.app/"
 }
 
