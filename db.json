@@ -87,8 +87,35 @@
 "visit": "https://data-entry-app.vercel.app/"
 }
 
+],
+ "allportfolio":
+[
+{
+"id": 1,
+"type": "mobile",
+"title":"Restaurant App",
+"subTitle": "Android/IOS App",
+"description": "A brilliant and user-friendly mobile app for Restaurant and Hotels. Which contains live-location service and gives customer better experience.",
+"keywords": ["Privacy first","IOS/Android supported","Searh restaurants and it's details","Live Geo-Location","Make favourites","Secure Payments Method"],
+"embed": "https:www.appetize.com",
+"appGoto": "https:www.appetize.com",
+"thumbnail": "http://yakraj.com/images/mobile.png",
+"visit": "https:vercel.com"
+},
+{
+"id": 2,
+"type": "web",
+"title": "Company Data Entry",
+"subTitle": "Specialyzed online web for Industrials companies.",
+"description": "This is very special web applicaton for company level, which is acccessable from anywhere with major Privacy, once you login through your own crediantials you willl be allowed to see and make changes on app.",
+"keywords": ["responsive","Secure"],
+"embed": "https:www.appetize.com",
+"appGoto": "https:www.appetize.com",
+"thumbnail": "http://yakraj.com/images/data-entry.png",
+"visit": "https://data-entry-app.vercel.app/"
+}
+
 ]
- 
  
  
 }
