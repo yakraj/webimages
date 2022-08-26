@@ -1,16 +1,5 @@
-{"images":[{"title":"this is first image","sr":"https://cdn.pixabay.com/photo/2017/03/13/17/26/ecommerce-2140603_960_720.jpg"},
-           {"title":"this is second image","sr":"https://cdn.pixabay.com/photo/2015/06/24/15/45/code-820275__340.jpg"},
-           {"title":"this is third image","sr":"https://cdn.pixabay.com/photo/2015/01/31/12/00/seo-618434__340.jpg"},
-           {"title":"this is fourth image","sr":"https://cdn.pixabay.com/photo/2018/07/25/18/36/ecommerce-3562005__340.jpg"},
-           {"title":"this is fifth image","sr":"https://colibriwp.com/blog/wp-content/uploads/2018/07/banner-redimensionat.jpg"},
-           {"title":"this is sixth image","sr":"https://99designs-start-attachments.imgix.net/alchemy-pictures/2016%2F01%2F29%2F06%2F52%2F16%2F2574220d-7737-4c39-a562-8e153a5d1497%2Fwebsite-hero3.png?auto=format&ch=Width%2CDPR&fm=png&w=824&h=457"},
-           {"title":"this is seventh image","sr":"https://www.gujaratinfotech.com/slider/image/mobile-app-development.png"},
-           {"title":"this is eighth image","sr":"https://ioss.in/wp-content/uploads/2019/01/Mobile-App.png"},
-           {"title":"this is nineth image","sr":"https://images.idgesg.net/images/article/2021/04/sale_229497_article_image-100886210-large.jpg?auto=webp"},
-           {"title":"this is tenth image","sr":"https://image.freepik.com/free-vector/website-programming-coding-web-development-coding-3ds_174191-371.jpg"},
-           {"title":"this is eleventh image","sr":"https://media.istockphoto.com/vectors/software-development-programming-language-coding-3d-isometric-laptop-vector-id1286724005"},
-           {"title":"this is twelveth image","sr":"https://comps.canstockphoto.com/web-development-programming-coding-clip-art-vector_csp72589664.jpg"}],
-"works":[
+{
+    "works":[
       {"title":"Smart Face-Recognition",
      "img":"https://yakraj.com/productImages/face-recong.png",
      "desc":"A very smart website for recognize faces on image count faces with it's api function",
@@ -37,7 +26,8 @@
      "img":"https://yakraj.com/productImages/contact.png",
      "desc":"This is contact directory app for track record and make a call to any emerygency numbers in country.",
      "redirect":"https://contact-directory.vercel.app/"},
- {"title":"CSS Castle",
+    
+     {"title":"CSS Castle",
      "img":"https://yakraj.com/productImages/castle.png",
      "desc":"This is my most awesome ever I made with css. CSS is best Language for desin I used it as well as i could.",
      "redirect":"https://yakraj.github.io/CSS-Castle/"},
@@ -47,20 +37,17 @@
      "desc":"This is a simple concept for website. Once i will click toggle switch it switches on and off and changes background of image.",
      "redirect":"https://yakraj.github.io/toggle-change-background/"},
 
-
     {"title":"Image Comparition Site",
      "img":"https://yakraj.com/productImages/copparition.png",
      "desc":"A template for compare your two images. It could be more useful when you compare two images",
      "redirect":"https://yakraj.github.io/Simple-Image-comparison/"},
-
  
-  {"title":"Background Generator",
+    {"title":"Background Generator",
      "img":"https://yakraj.com/productImages/background.png",
      "desc":"A simple Javascript dynamic app for generate custom background color of website.",
      "redirect":"https://yakraj.github.io/Background-Generator/"}
 ],
  "portfolio":
-
 [
 {
 "id": 1,
@@ -86,7 +73,6 @@
 "thumbnail": "http://yakraj.com/images/data-entry.png",
 "visit": "https://data-entry-app.vercel.app/"
 }
-
 ],
  "allportfolio":
 [
@@ -115,7 +101,7 @@
 "visit": "https://data-entry-app.vercel.app/"
 }
 ], 
- "Gallery":
+"Gallery":
  [
     {
       "original": "https://picsum.photos/id/1018/1000/600/",
