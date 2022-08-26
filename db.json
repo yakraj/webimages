@@ -114,7 +114,9 @@
 "thumbnail": "http://yakraj.com/images/data-entry.png",
 "visit": "https://data-entry-app.vercel.app/"
 }
-], "gallery":[
+], 
+ "gallery":
+ [
     {
       "original": "https://picsum.photos/id/1018/1000/600/",
       "thumbnail": "https://picsum.photos/id/1018/1000/600/",
@@ -128,8 +130,5 @@
       "thumbnail": "https://picsum.photos/id/1019/1000/600/",
     }
  ]
-
- 
- 
 }
 
